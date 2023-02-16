@@ -4,8 +4,9 @@
 
 A Wake-On-Lan app that wakes up your devices over the network.
 
-[https://play.google.com/store/apps/details?id=com.behemehal.wole](https://play.google.com/store/apps/details?id=com.behemehal.wole)
-
+<a _target="blank" href="https://play.google.com/store/apps/details?id=com.behemehal.wole">
+  <img src="./google-play-badge.png" width="250">
+</a>
 
 ## License
 

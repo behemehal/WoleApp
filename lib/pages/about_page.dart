@@ -71,9 +71,9 @@ class AboutPageState extends State<AboutPage> {
             ),
 
             //langauge selection
-            const Text(
-              "Language",
-              style: TextStyle(
+            Text(
+              getLangContext("26"),
+              style: const TextStyle(
                 fontSize: 13,
               ),
             ),
